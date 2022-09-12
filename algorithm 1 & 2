@@ -1,0 +1,12 @@
+Algorithm 1
+
+For any mark, if the student 1 marks minus student 2 marks comes with positive number, student 1 have highest mark. 
+student 1 - student 2 = positive number
+if student 1 marks minus student 2 marks comer with a negative number, student 2 have highest mark.
+student 1 - student 2 = negative number
+
+Algorithm 2
+mean calculation is the sum of all students marks divides by number os students.
+sum of all students marks / number of students. 
+standart devication is calculated by the marks of the first student minus the mean and squared that plus marks of the secound student minus the mean and squared that devided by the number of students and take the root of it.
+(student 1 mark - mean )² + (student 2 mark - mean)² / number of students and root
