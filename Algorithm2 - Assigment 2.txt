@@ -1,0 +1,15 @@
+console menu:
+ if console input 1; calculate top 10 highest values and top 10 lowest values of the sum of A1, A2, A3. 
+print the result.
+
+if console input 2; ask console to input value for treshold. calculate the value of treshold by displaing only values higher or equal to the input value.
+
+menu console: 
+
+1. Display top 10 highest and top 10 lowest marks.
+
+2. Enter treshold amount to displayy studentes marks.
+
+if 1, display greater value by the sum of A1 + A2 + A3 = x and previus 9 graters values. display lowest value by the sum of A1 + A2 + A3 = x and previus 9 lowest values. 
+
+if 2, enter the console the value to display only value equal or greater that the one enter on console.  

@@ -1,0 +1,9 @@
+calculating 10 top highest values and top lowest values:
+
+console read csv and display highest values of the sum of A1 + A2 + A3 = x following for the secound list of highest valeu till tenth highest values. display the lowest value of the previous sum following for the secound lowest till tenth. 
+
+Student marks A1 + A2 + A3 = x
+compare Student marks values
+find highest and lowest
+print highest and next 9 values, lowest and next 9 values. 
+ 
