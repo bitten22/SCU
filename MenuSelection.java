@@ -69,6 +69,6 @@ public class Main {
 		System.out.println("name, ID of the highest score and the lowest score:");
 		System.out.println(max.name + " " + max.stu_id);
 		System.out.println(min.name + " " + min.stu_id);
-		in.close();
+		in.close() ;
 	}
 }
